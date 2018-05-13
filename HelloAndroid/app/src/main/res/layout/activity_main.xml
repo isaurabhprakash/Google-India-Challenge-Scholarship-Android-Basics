@@ -25,7 +25,8 @@
         android:paddingStart="25dp"
         android:textColor="#00BCD4"
         android:layout_below="@id/image_view"
-        android:text="@string/udacity" />
+        android:text="Udacity"
+        android:paddingLeft="25dp" />
     <TextView
         android:id="@+id/text2"
         android:layout_width="match_parent"

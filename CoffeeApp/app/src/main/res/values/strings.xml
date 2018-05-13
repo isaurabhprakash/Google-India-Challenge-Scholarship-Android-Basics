@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoffeeApp</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="order">Order</string>
+    <string name="quantity">Quantity</string>
+</resources>
